@@ -2,7 +2,7 @@
 name: User Story
 about: "---"
 title: ''
-labels: User Story, ТРПО
+labels: ТРПО
 assignees: Garabumba
 
 ---
